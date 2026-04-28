@@ -30,3 +30,7 @@ Past:
 - Netanel Fiorino
 - William Lin
 - Lio Thomas
+
+A very special thanks to our testers! 
+- YOUR NAME HERE
+
