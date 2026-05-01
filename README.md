@@ -20,6 +20,7 @@ Present:
 - Prof. Michelle H. Rosen
 - Brianna Connors
 - Michael Giglia
+- Palina Kuzmina
 - Logan Villano
 - Allegra Wong
 
