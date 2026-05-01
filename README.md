@@ -16,7 +16,7 @@ May 2026
 
 Contributors: 
 Present: 
-- Prof. Michelle H. Rosen
+- Prof. Michelle H. Rosen (PI)
 - Imtiaz Ahmed (wings)
 - Brianna Connors (transmission and controls) 
 - Michael Giglia (a little of everything!) 
