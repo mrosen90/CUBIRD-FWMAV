@@ -2,7 +2,6 @@ The CUBIRD FWMAV project aims to create an open-source, affordable, and accessib
 
 This project is currently under development at The Cooper Union for the Advancement of Science and Art. We are looking for testers to provide feedback. Please send any such feedback to Michelle Rosen at michelle.rosen@cooper.edu.  
 
-
 This repository contains all the information you need to create your own copy of the CUBIRD FWMAV. You'll find a bill of materials, assembly instructions, CAD files, and fabrication files.
 
 For this project, you will need access to a 3D printer, PLA filament, and hand tools in addition to the bill of materials. A few variations may also require a laser cutter where noted. 
@@ -18,19 +17,19 @@ May 2026
 Contributors: 
 Present: 
 - Prof. Michelle H. Rosen
-- Brianna Connors
-- Michael Giglia
-- Palina Kuzmina
-- Logan Villano
-- Allegra Wong
+- Imtiaz Ahmed (wings)
+- Brianna Connors (transmission and controls) 
+- Michael Giglia (a little of everything!) 
+- Palina Kuzmina (electronics)
+- Allegra Wong (transmission)
 
 Past: 
-- Vlad Berschanskiy
-- Tre Brown
-- Yaacov Davidowitz
-- Netanel Fiorino
-- William Lin
-- Lio Thomas
+- Vlad Berschanskiy (wing fabrication) 
+- Yaacov Davidowitz (original transmission design)
+- Netanel Fiorino (simulation)
+- William Lin (original transmission design)
+- Logan Villano (original transmission design, main contributor)
+- Lio Thomas (wing mounts)
 
 A very special thanks to our testers! 
 - YOUR NAME HERE
