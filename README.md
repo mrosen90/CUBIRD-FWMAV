@@ -31,5 +31,3 @@ Past:
 - Lio Thomas (wing mounts)
 
 A very special thanks to our testers! 
-- YOUR NAME HERE
-
