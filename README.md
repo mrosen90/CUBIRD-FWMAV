@@ -2,7 +2,7 @@ The CUBIRD FWMAV project aims to create an open-source, affordable, and accessib
 
 This project is currently under development at The Cooper Union for the Advancement of Science and Art. We are looking for testers to provide feedback, especially on ease of fabrication and assembly. Please send any such feedback to Michelle Rosen at michelle.rosen@cooper.edu.  
 
-This repository contains all the information you need to create your own copy of the CUBIRD FWMAV. You'll find a bill of materials, assembly instructions, CAD files, and fabrication files.
+This repository contains all the information you need to create your own copy of the CUBIRD FWMAV. You'll find a bill of materials, assembly instructions, CAD files, and fabrication files. It is recommended to start with the README in the [Fabrication](urhttps://github.com/mrosen90/CUBIRD-FWMAV/tree/main/Fabrication) folder.
 
 For this project, you will need access to a 3D printer with PLA filament or a laser cutter, and hand tools in addition to the bill of materials.
 
