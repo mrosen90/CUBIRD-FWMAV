@@ -11,7 +11,7 @@ For this project, you will need access to a 3D printer with PLA filament or a la
 # Current State
 Last update: September 2026
 
--Transmission and wings only. 
+- Transmission and wings only. 
 - The current iteration is intended to be run off of a power supply at 5V and 3V3.
 - Wings are not yet optimized, but are included for testing
 - Electrical design and software included for motor control via encoders
