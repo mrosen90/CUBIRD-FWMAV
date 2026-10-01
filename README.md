@@ -1,3 +1,5 @@
+![CUBIRD Lab Logo](CUBIRDLogo.png)
+
 # Introduction
 
 The CUBIRD FWMAV project aims to create an open-source, affordable, and accessible flapping-wing vehicle platform at the scale of a small bird. It is intended to be a way to fabricate these vehicles for education and research without spending more than $200 on materials. The two wings flap independently and are intended to generate control torques using frequency modulation.
